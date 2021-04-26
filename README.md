@@ -5,7 +5,7 @@ BAADS (Burn After Alternate Data Stream)
 BAADS is a menu driven script that creates Alternate Data Stream affected files, then deletes itself after it's task is completed.
 
 # What are Alternate Data Streams?
-https://owasp.org/www-community/attacks/Windows_alternate_data_stream
+https://owasp.org/www-community/attacks/Windows_alternate_data_stream <br />
 https://www.sans.org/blog/alternate-data-streams-overview/
 
 # Example scenario and how to:
